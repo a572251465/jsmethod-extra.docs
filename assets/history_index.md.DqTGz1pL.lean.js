@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a2 as r}from"./chunks/framework.wwe-HlSg.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"history/index.md","filePath":"history/index.md"}'),i={name:"history/index.md"},s=r("",14),o=[s];function l(n,d,m,h,u,c){return t(),e("div",null,o)}const v=a(i,[["render",l]]);export{_ as __pageData,v as default};
